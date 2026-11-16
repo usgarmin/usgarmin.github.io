@@ -1,0 +1,502 @@
+[
+  {
+    "title": "How to Update Garmin GPS",
+    "slug": "how-to-update-garmin-gps",
+    "path": "articles/how-to-update-garmin-gps/article.html"
+  },
+  {
+    "title": "How to Update Garmin GPS Maps",
+    "slug": "how-to-update-garmin-gps-maps",
+    "path": "articles/how-to-update-garmin-gps-maps/article.html"
+  },
+  {
+    "title": "How to Update Garmin Navigation Software",
+    "slug": "how-to-update-garmin-navigation-software",
+    "path": "articles/how-to-update-garmin-navigation-software/article.html"
+  },
+  {
+    "title": "How to Fix Garmin GPS Update Not Working",
+    "slug": "how-to-fix-garmin-gps-update-not-working",
+    "path": "articles/how-to-fix-garmin-gps-update-not-working/article.html"
+  },
+  {
+    "title": "How to Fix Garmin GPS Not Finding Location",
+    "slug": "how-to-fix-garmin-gps-not-finding-location",
+    "path": "articles/how-to-fix-garmin-gps-not-finding-location/article.html"
+  },
+  {
+    "title": "How to Fix Garmin GPS Location Not Updating",
+    "slug": "how-to-fix-garmin-gps-location-not-updating",
+    "path": "articles/how-to-fix-garmin-gps-location-not-updating/article.html"
+  },
+  {
+    "title": "How to Connect Garmin GPS to Wi-Fi",
+    "slug": "how-to-connect-garmin-gps-to-wi-fi",
+    "path": "articles/how-to-connect-garmin-gps-to-wi-fi/article.html"
+  },
+  {
+    "title": "How to Fix Garmin GPS Wi-Fi Not Connecting",
+    "slug": "how-to-fix-garmin-gps-wi-fi-not-connecting",
+    "path": "articles/how-to-fix-garmin-gps-wi-fi-not-connecting/article.html"
+  },
+  {
+    "title": "How to Fix Garmin GPS Update Errors",
+    "slug": "how-to-fix-garmin-gps-update-errors",
+    "path": "articles/how-to-fix-garmin-gps-update-errors/article.html"
+  },
+  {
+    "title": "How to Update Garmin GPS Without Losing Saved Places",
+    "slug": "how-to-update-garmin-gps-without-losing-saved-places",
+    "path": "articles/how-to-update-garmin-gps-without-losing-saved-places/article.html"
+  },
+  {
+    "title": "How to Update Garmin GPS Using Garmin Express",
+    "slug": "how-to-update-garmin-gps-using-garmin-express",
+    "path": "articles/how-to-update-garmin-gps-using-garmin-express/article.html"
+  },
+  {
+    "title": "How to Update Garmin GPS Using a Computer",
+    "slug": "how-to-update-garmin-gps-using-a-computer",
+    "path": "articles/how-to-update-garmin-gps-using-a-computer/article.html"
+  },
+  {
+    "title": "How to Update Garmin GPS Using Wi-Fi",
+    "slug": "how-to-update-garmin-gps-using-wi-fi",
+    "path": "articles/how-to-update-garmin-gps-using-wi-fi/article.html"
+  },
+  {
+    "title": "How to Update Garmin GPS After a Long Time",
+    "slug": "how-to-update-garmin-gps-after-a-long-time",
+    "path": "articles/how-to-update-garmin-gps-after-a-long-time/article.html"
+  },
+  {
+    "title": "How to Update Garmin GPS When Update Is Stuck",
+    "slug": "how-to-update-garmin-gps-when-update-is-stuck",
+    "path": "articles/how-to-update-garmin-gps-when-update-is-stuck/article.html"
+  },
+  {
+    "title": "How to Update Garmin GPS When Device Is Not Recognized",
+    "slug": "how-to-update-garmin-gps-when-device-is-not-recognized",
+    "path": "articles/how-to-update-garmin-gps-when-device-is-not-recognized/article.html"
+  },
+  {
+    "title": "How to Update Garmin GPS When Maps Are Missing",
+    "slug": "how-to-update-garmin-gps-when-maps-are-missing",
+    "path": "articles/how-to-update-garmin-gps-when-maps-are-missing/article.html"
+  },
+  {
+    "title": "How to Update Garmin GPS When Routes Are Incorrect",
+    "slug": "how-to-update-garmin-gps-when-routes-are-incorrect",
+    "path": "articles/how-to-update-garmin-gps-when-routes-are-incorrect/article.html"
+  },
+  {
+    "title": "How to Update Garmin GPS When Address Search Fails",
+    "slug": "how-to-update-garmin-gps-when-address-search-fails",
+    "path": "articles/how-to-update-garmin-gps-when-address-search-fails/article.html"
+  },
+  {
+    "title": "How to Update Garmin GPS When GPS Signal Is Weak",
+    "slug": "how-to-update-garmin-gps-when-gps-signal-is-weak",
+    "path": "articles/how-to-update-garmin-gps-when-gps-signal-is-weak/article.html"
+  },
+  {
+    "title": "Troubleshoot Garmin GPS Freezing During Update",
+    "slug": "troubleshoot-garmin-gps-freezing-during-update",
+    "path": "articles/troubleshoot-garmin-gps-freezing-during-update/article.html"
+  },
+  {
+    "title": "Troubleshoot Garmin GPS Restarting Repeatedly",
+    "slug": "troubleshoot-garmin-gps-restarting-repeatedly",
+    "path": "articles/troubleshoot-garmin-gps-restarting-repeatedly/article.html"
+  },
+  {
+    "title": "Troubleshoot Garmin GPS Showing A Blank Screen",
+    "slug": "troubleshoot-garmin-gps-showing-a-blank-screen",
+    "path": "articles/troubleshoot-garmin-gps-showing-a-blank-screen/article.html"
+  },
+  {
+    "title": "Troubleshoot Garmin GPS Running Slowly",
+    "slug": "troubleshoot-garmin-gps-running-slowly",
+    "path": "articles/troubleshoot-garmin-gps-running-slowly/article.html"
+  },
+  {
+    "title": "Troubleshoot Garmin GPS Not Charging During Update",
+    "slug": "troubleshoot-garmin-gps-not-charging-during-update",
+    "path": "articles/troubleshoot-garmin-gps-not-charging-during-update/article.html"
+  },
+  {
+    "title": "Troubleshoot Garmin GPS Failing To Install Maps",
+    "slug": "troubleshoot-garmin-gps-failing-to-install-maps",
+    "path": "articles/troubleshoot-garmin-gps-failing-to-install-maps/article.html"
+  },
+  {
+    "title": "Troubleshoot Garmin GPS Showing Insufficient Storage",
+    "slug": "troubleshoot-garmin-gps-showing-insufficient-storage",
+    "path": "articles/troubleshoot-garmin-gps-showing-insufficient-storage/article.html"
+  },
+  {
+    "title": "Troubleshoot Garmin GPS Disconnecting From Wi-Fi",
+    "slug": "troubleshoot-garmin-gps-disconnecting-from-wi-fi",
+    "path": "articles/troubleshoot-garmin-gps-disconnecting-from-wi-fi/article.html"
+  },
+  {
+    "title": "Troubleshoot Garmin GPS Not Syncing With Garmin Express",
+    "slug": "troubleshoot-garmin-gps-not-syncing-with-garmin-express",
+    "path": "articles/troubleshoot-garmin-gps-not-syncing-with-garmin-express/article.html"
+  },
+  {
+    "title": "Troubleshoot Garmin GPS Displaying An Error Code",
+    "slug": "troubleshoot-garmin-gps-displaying-an-error-code",
+    "path": "articles/troubleshoot-garmin-gps-displaying-an-error-code/article.html"
+  },
+  {
+    "title": "Improve Garmin GPS Satellite Reception",
+    "slug": "improve-garmin-gps-satellite-reception",
+    "path": "articles/improve-garmin-gps-satellite-reception/article.html"
+  },
+  {
+    "title": "Improve Garmin GPS Map Accuracy",
+    "slug": "improve-garmin-gps-map-accuracy",
+    "path": "articles/improve-garmin-gps-map-accuracy/article.html"
+  },
+  {
+    "title": "Improve Garmin GPS Route Accuracy",
+    "slug": "improve-garmin-gps-route-accuracy",
+    "path": "articles/improve-garmin-gps-route-accuracy/article.html"
+  },
+  {
+    "title": "Improve Garmin GPS Address Search",
+    "slug": "improve-garmin-gps-address-search",
+    "path": "articles/improve-garmin-gps-address-search/article.html"
+  },
+  {
+    "title": "Improve Garmin GPS Device Performance",
+    "slug": "improve-garmin-gps-device-performance",
+    "path": "articles/improve-garmin-gps-device-performance/article.html"
+  },
+  {
+    "title": "Improve Garmin GPS Wireless Stability",
+    "slug": "improve-garmin-gps-wireless-stability",
+    "path": "articles/improve-garmin-gps-wireless-stability/article.html"
+  },
+  {
+    "title": "Improve Garmin GPS Storage Space",
+    "slug": "improve-garmin-gps-storage-space",
+    "path": "articles/improve-garmin-gps-storage-space/article.html"
+  },
+  {
+    "title": "Improve Garmin GPS Update Reliability",
+    "slug": "improve-garmin-gps-update-reliability",
+    "path": "articles/improve-garmin-gps-update-reliability/article.html"
+  },
+  {
+    "title": "Improve Garmin GPS Location Accuracy",
+    "slug": "improve-garmin-gps-location-accuracy",
+    "path": "articles/improve-garmin-gps-location-accuracy/article.html"
+  },
+  {
+    "title": "Improve Garmin GPS Startup Reliability",
+    "slug": "improve-garmin-gps-startup-reliability",
+    "path": "articles/improve-garmin-gps-startup-reliability/article.html"
+  },
+  {
+    "title": "Prepare Garmin GPS for A Map Update",
+    "slug": "prepare-garmin-gps-for-a-map-update",
+    "path": "articles/prepare-garmin-gps-for-a-map-update/article.html"
+  },
+  {
+    "title": "Prepare Garmin GPS for A Software Update",
+    "slug": "prepare-garmin-gps-for-a-software-update",
+    "path": "articles/prepare-garmin-gps-for-a-software-update/article.html"
+  },
+  {
+    "title": "Prepare Garmin GPS for A First-Time Setup",
+    "slug": "prepare-garmin-gps-for-a-first-time-setup",
+    "path": "articles/prepare-garmin-gps-for-a-first-time-setup/article.html"
+  },
+  {
+    "title": "Prepare Garmin GPS for A Computer Connection",
+    "slug": "prepare-garmin-gps-for-a-computer-connection",
+    "path": "articles/prepare-garmin-gps-for-a-computer-connection/article.html"
+  },
+  {
+    "title": "Prepare Garmin GPS for A Wi-Fi Update",
+    "slug": "prepare-garmin-gps-for-a-wi-fi-update",
+    "path": "articles/prepare-garmin-gps-for-a-wi-fi-update/article.html"
+  },
+  {
+    "title": "Prepare Garmin GPS for A Trip After Updating",
+    "slug": "prepare-garmin-gps-for-a-trip-after-updating",
+    "path": "articles/prepare-garmin-gps-for-a-trip-after-updating/article.html"
+  },
+  {
+    "title": "Prepare Garmin GPS for A Device Restart",
+    "slug": "prepare-garmin-gps-for-a-device-restart",
+    "path": "articles/prepare-garmin-gps-for-a-device-restart/article.html"
+  },
+  {
+    "title": "Prepare Garmin GPS for A Factory Reset",
+    "slug": "prepare-garmin-gps-for-a-factory-reset",
+    "path": "articles/prepare-garmin-gps-for-a-factory-reset/article.html"
+  },
+  {
+    "title": "Prepare Garmin GPS for A Data Backup",
+    "slug": "prepare-garmin-gps-for-a-data-backup",
+    "path": "articles/prepare-garmin-gps-for-a-data-backup/article.html"
+  },
+  {
+    "title": "Prepare Garmin GPS for A New Region Map",
+    "slug": "prepare-garmin-gps-for-a-new-region-map",
+    "path": "articles/prepare-garmin-gps-for-a-new-region-map/article.html"
+  },
+  {
+    "title": "Check Garmin GPS Installed Map Version",
+    "slug": "check-garmin-gps-installed-map-version",
+    "path": "articles/check-garmin-gps-installed-map-version/article.html"
+  },
+  {
+    "title": "Check Garmin GPS Software Version",
+    "slug": "check-garmin-gps-software-version",
+    "path": "articles/check-garmin-gps-software-version/article.html"
+  },
+  {
+    "title": "Check Garmin GPS Available Storage",
+    "slug": "check-garmin-gps-available-storage",
+    "path": "articles/check-garmin-gps-available-storage/article.html"
+  },
+  {
+    "title": "Check Garmin GPS Wi-Fi Status",
+    "slug": "check-garmin-gps-wi-fi-status",
+    "path": "articles/check-garmin-gps-wi-fi-status/article.html"
+  },
+  {
+    "title": "Check Garmin GPS Satellite Signal",
+    "slug": "check-garmin-gps-satellite-signal",
+    "path": "articles/check-garmin-gps-satellite-signal/article.html"
+  },
+  {
+    "title": "Check Garmin GPS Saved Locations Backup",
+    "slug": "check-garmin-gps-saved-locations-backup",
+    "path": "articles/check-garmin-gps-saved-locations-backup/article.html"
+  },
+  {
+    "title": "Check Garmin GPS Map Coverage",
+    "slug": "check-garmin-gps-map-coverage",
+    "path": "articles/check-garmin-gps-map-coverage/article.html"
+  },
+  {
+    "title": "Check Garmin GPS Update Completion",
+    "slug": "check-garmin-gps-update-completion",
+    "path": "articles/check-garmin-gps-update-completion/article.html"
+  },
+  {
+    "title": "Check Garmin GPS Device Compatibility",
+    "slug": "check-garmin-gps-device-compatibility",
+    "path": "articles/check-garmin-gps-device-compatibility/article.html"
+  },
+  {
+    "title": "Check Garmin GPS Usb Connection",
+    "slug": "check-garmin-gps-usb-connection",
+    "path": "articles/check-garmin-gps-usb-connection/article.html"
+  },
+  {
+    "title": "Fix Garmin GPS Wrong Current Location",
+    "slug": "fix-garmin-gps-wrong-current-location",
+    "path": "articles/fix-garmin-gps-wrong-current-location/article.html"
+  },
+  {
+    "title": "Fix Garmin GPS Location Jumping On Screen",
+    "slug": "fix-garmin-gps-location-jumping-on-screen",
+    "path": "articles/fix-garmin-gps-location-jumping-on-screen/article.html"
+  },
+  {
+    "title": "Fix Garmin GPS Gps Signal Unavailable",
+    "slug": "fix-garmin-gps-gps-signal-unavailable",
+    "path": "articles/fix-garmin-gps-gps-signal-unavailable/article.html"
+  },
+  {
+    "title": "Fix Garmin GPS Map Download Failure",
+    "slug": "fix-garmin-gps-map-download-failure",
+    "path": "articles/fix-garmin-gps-map-download-failure/article.html"
+  },
+  {
+    "title": "Fix Garmin GPS Update Download Failure",
+    "slug": "fix-garmin-gps-update-download-failure",
+    "path": "articles/fix-garmin-gps-update-download-failure/article.html"
+  },
+  {
+    "title": "Fix Garmin GPS Wireless Network Error",
+    "slug": "fix-garmin-gps-wireless-network-error",
+    "path": "articles/fix-garmin-gps-wireless-network-error/article.html"
+  },
+  {
+    "title": "Fix Garmin GPS Computer Connection Error",
+    "slug": "fix-garmin-gps-computer-connection-error",
+    "path": "articles/fix-garmin-gps-computer-connection-error/article.html"
+  },
+  {
+    "title": "Fix Garmin GPS Slow Map Installation",
+    "slug": "fix-garmin-gps-slow-map-installation",
+    "path": "articles/fix-garmin-gps-slow-map-installation/article.html"
+  },
+  {
+    "title": "Fix Garmin GPS Missing Road Information",
+    "slug": "fix-garmin-gps-missing-road-information",
+    "path": "articles/fix-garmin-gps-missing-road-information/article.html"
+  },
+  {
+    "title": "Fix Garmin GPS Navigation Voice Problems",
+    "slug": "fix-garmin-gps-navigation-voice-problems",
+    "path": "articles/fix-garmin-gps-navigation-voice-problems/article.html"
+  },
+  {
+    "title": "Manage Garmin GPS Map Updates",
+    "slug": "manage-garmin-gps-map-updates",
+    "path": "articles/manage-garmin-gps-map-updates/article.html"
+  },
+  {
+    "title": "Manage Garmin GPS Software Updates",
+    "slug": "manage-garmin-gps-software-updates",
+    "path": "articles/manage-garmin-gps-software-updates/article.html"
+  },
+  {
+    "title": "Manage Garmin GPS Saved Locations",
+    "slug": "manage-garmin-gps-saved-locations",
+    "path": "articles/manage-garmin-gps-saved-locations/article.html"
+  },
+  {
+    "title": "Manage Garmin GPS Wi-Fi Networks",
+    "slug": "manage-garmin-gps-wi-fi-networks",
+    "path": "articles/manage-garmin-gps-wi-fi-networks/article.html"
+  },
+  {
+    "title": "Manage Garmin GPS Route Preferences",
+    "slug": "manage-garmin-gps-route-preferences",
+    "path": "articles/manage-garmin-gps-route-preferences/article.html"
+  },
+  {
+    "title": "Manage Garmin GPS Map Storage",
+    "slug": "manage-garmin-gps-map-storage",
+    "path": "articles/manage-garmin-gps-map-storage/article.html"
+  },
+  {
+    "title": "Manage Garmin GPS Device Backups",
+    "slug": "manage-garmin-gps-device-backups",
+    "path": "articles/manage-garmin-gps-device-backups/article.html"
+  },
+  {
+    "title": "Manage Garmin GPS Navigation Settings",
+    "slug": "manage-garmin-gps-navigation-settings",
+    "path": "articles/manage-garmin-gps-navigation-settings/article.html"
+  },
+  {
+    "title": "Manage Garmin GPS Regional Maps",
+    "slug": "manage-garmin-gps-regional-maps",
+    "path": "articles/manage-garmin-gps-regional-maps/article.html"
+  },
+  {
+    "title": "Manage Garmin GPS Update Notifications",
+    "slug": "manage-garmin-gps-update-notifications",
+    "path": "articles/manage-garmin-gps-update-notifications/article.html"
+  },
+  {
+    "title": "Use Garmin GPS After A Map Update",
+    "slug": "use-garmin-gps-after-a-map-update",
+    "path": "articles/use-garmin-gps-after-a-map-update/article.html"
+  },
+  {
+    "title": "Use Garmin GPS After A Software Update",
+    "slug": "use-garmin-gps-after-a-software-update",
+    "path": "articles/use-garmin-gps-after-a-software-update/article.html"
+  },
+  {
+    "title": "Use Garmin GPS In A New Location",
+    "slug": "use-garmin-gps-in-a-new-location",
+    "path": "articles/use-garmin-gps-in-a-new-location/article.html"
+  },
+  {
+    "title": "Use Garmin GPS With A Weak Wi-Fi Signal",
+    "slug": "use-garmin-gps-with-a-weak-wi-fi-signal",
+    "path": "articles/use-garmin-gps-with-a-weak-wi-fi-signal/article.html"
+  },
+  {
+    "title": "Use Garmin GPS When Satellite Lock Is Slow",
+    "slug": "use-garmin-gps-when-satellite-lock-is-slow",
+    "path": "articles/use-garmin-gps-when-satellite-lock-is-slow/article.html"
+  },
+  {
+    "title": "Use Garmin GPS With A Computer",
+    "slug": "use-garmin-gps-with-a-computer",
+    "path": "articles/use-garmin-gps-with-a-computer/article.html"
+  },
+  {
+    "title": "Use Garmin GPS For Address Navigation",
+    "slug": "use-garmin-gps-for-address-navigation",
+    "path": "articles/use-garmin-gps-for-address-navigation/article.html"
+  },
+  {
+    "title": "Use Garmin GPS When Maps Appear Outdated",
+    "slug": "use-garmin-gps-when-maps-appear-outdated",
+    "path": "articles/use-garmin-gps-when-maps-appear-outdated/article.html"
+  },
+  {
+    "title": "Use Garmin GPS After Restoring Settings",
+    "slug": "use-garmin-gps-after-restoring-settings",
+    "path": "articles/use-garmin-gps-after-restoring-settings/article.html"
+  },
+  {
+    "title": "Use Garmin GPS When Route Guidance Differs",
+    "slug": "use-garmin-gps-when-route-guidance-differs",
+    "path": "articles/use-garmin-gps-when-route-guidance-differs/article.html"
+  },
+  {
+    "title": "Resolve Garmin GPS Update Installation Problems",
+    "slug": "resolve-garmin-gps-update-installation-problems",
+    "path": "articles/resolve-garmin-gps-update-installation-problems/article.html"
+  },
+  {
+    "title": "Resolve Garmin GPS Map Version Mismatch",
+    "slug": "resolve-garmin-gps-map-version-mismatch",
+    "path": "articles/resolve-garmin-gps-map-version-mismatch/article.html"
+  },
+  {
+    "title": "Resolve Garmin GPS Location Detection Delays",
+    "slug": "resolve-garmin-gps-location-detection-delays",
+    "path": "articles/resolve-garmin-gps-location-detection-delays/article.html"
+  },
+  {
+    "title": "Resolve Garmin GPS Wi-Fi Authentication Problems",
+    "slug": "resolve-garmin-gps-wi-fi-authentication-problems",
+    "path": "articles/resolve-garmin-gps-wi-fi-authentication-problems/article.html"
+  },
+  {
+    "title": "Resolve Garmin GPS Usb Transfer Interruptions",
+    "slug": "resolve-garmin-gps-usb-transfer-interruptions",
+    "path": "articles/resolve-garmin-gps-usb-transfer-interruptions/article.html"
+  },
+  {
+    "title": "Resolve Garmin GPS Navigation Calculation Delays",
+    "slug": "resolve-garmin-gps-navigation-calculation-delays",
+    "path": "articles/resolve-garmin-gps-navigation-calculation-delays/article.html"
+  },
+  {
+    "title": "Resolve Garmin GPS Map Display Problems",
+    "slug": "resolve-garmin-gps-map-display-problems",
+    "path": "articles/resolve-garmin-gps-map-display-problems/article.html"
+  },
+  {
+    "title": "Resolve Garmin GPS Device Storage Warnings",
+    "slug": "resolve-garmin-gps-device-storage-warnings",
+    "path": "articles/resolve-garmin-gps-device-storage-warnings/article.html"
+  },
+  {
+    "title": "Resolve Garmin GPS Satellite Reception Issues",
+    "slug": "resolve-garmin-gps-satellite-reception-issues",
+    "path": "articles/resolve-garmin-gps-satellite-reception-issues/article.html"
+  },
+  {
+    "title": "Resolve Garmin GPS Unexpected Restart Issues",
+    "slug": "resolve-garmin-gps-unexpected-restart-issues",
+    "path": "articles/resolve-garmin-gps-unexpected-restart-issues/article.html"
+  }
+]
